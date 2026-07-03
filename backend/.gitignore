@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+node_modules
+# Environment (never commit passwords)
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+build/
+*.tsbuildinfo
+
+# Logs and debug
+logs/
+*.log
+npm-debug.log*
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
