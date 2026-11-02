@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 College Course Allotment Portal
+# 🎓 Allocademy
 
 **A full-stack, database-driven course registration system with a CGPA-priority seat-allocation engine.**
 
